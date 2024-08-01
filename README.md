@@ -1,2 +1,13 @@
-# StatisticalModeling_shit
-worthless piece of shit!
+# Study on the rule of Chinese medicine formulation for acute cerebral hemorrhage based on association analysis and clustering
+
+# Abstract
+
+As one of the treasures of Chinese medicine, TCM prescription preparations contain rich medical knowledge and practice accumulation. In-depth exploration of pharmaceutical ingredients of TCM prescription preparations for a single disease is helpful to discover potential interactions and pharmacodynamic associations between drugs, which can not only provide clues and directions for new drug discovery and drug research and development, but also provide decision-making support for precise treatment.
+
+In this paper, the literatures on TCM treatment of acute cerebral hemorrhage in the three databases of CNKI, Wanfang and Weipu in the past 20 years were searched, the TCM formula was input by Excel, and the model was built by combining association rules and cluster analysis data mining methods, so as to make statistics on the use frequency, efficacy, four qi and five taste normalization of TCM, and to explore high-frequency drugs, core combinations and new group prescriptions.
+
+According to the inclusion and exclusion criteria of prescriptions, a total of 318 prescriptions were screened out, involving 206 TCM flavors, among which 387 prescriptions were finally screened out, involving 72 TCM flavors, among which high-frequency drugs included peach kernel, wolfberry, wheat asparagine, leech, ligustrum chuanxiong, Herba officinalis, pseudostellariae. The association rule analysis based on fp-growth algorithm revealed the common drug compatibility, among which Dendrobium → Wolfberry, pinellia → Gladiolus, scrophulariae → peach kernel were prominent combinations. Five network clusters were obtained through cluster analysis, and each network cluster contained different TCM prescription preparations, which were mainly two groups: invigorating kidney and strengthening Yang, nourishing Yin and nourishing blood, clearing heat and detoxifying, activating blood circulation and removing stasis, and opening and awakening brain. These findings not only help to understand the application of Chinese medicine in the treatment of cerebral hemorrhage and further optimize the prescription of cerebral hemorrhage, but also provide useful guidance and reference for clinical practice.
+
+# Introduction
+
+Acute cerebral hemorrhage (ACH) is a common cerebrovascular disease in clinical practice, and its rapid development and high mortality rate bring a heavy burden to patients and their families. Although modern medicine has some effects, it has significant limitations. Traditional Chinese medicine plays a key role in treatment with its holistic approach and the advantages of syndrome differentiation and treatment. By exploring the rules of traditional Chinese medicine prescriptions, we can provide more ideas and references for the treatment of ACH, and are expected to improve the quality of life of patients.
